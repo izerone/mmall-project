@@ -8,6 +8,7 @@
 *.orig
 
 # maven ignore
+target/
 out/
 
 # eclipse ignore
